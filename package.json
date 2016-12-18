@@ -1,0 +1,26 @@
+{
+  "name": "simple_vanilla_node_site",
+  "version": "1.0.0",
+  "description": "app consumes an api from tree-house pulls user information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiletrace/simple_vanilla_node_site.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "user",
+    "profile"
+  ],
+  "author": "Trace Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whiletrace/simple_vanilla_node_site/issues"
+  },
+  "homepage": "https://github.com/whiletrace/simple_vanilla_node_site#readme"
+}
